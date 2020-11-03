@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Lab3\ThreadPool.h(98,24): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Lab3\Source.cpp(34,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Lab3\Source.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Lab3\Source.cpp(103,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Lab3\Source.cpp(123,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Lab3\Source.cpp(124,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Lab3\Source.cpp(139,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Lab3\Source.cpp(184,18): warning C4018: '<': signed/unsigned mismatch
+  Lab3.vcxproj -> C:\Users\Vasilica\Desktop\docs\PDP\Lab3\Debug\Lab3.exe
