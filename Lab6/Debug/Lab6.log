@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab6\Source.cpp(102,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab6\Source.cpp(130,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab6\Source.cpp(144,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab6\Source.cpp(182,21): warning C4018: '<': signed/unsigned mismatch
+  Lab6.vcxproj -> C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab6\Debug\Lab6.exe

@@ -1,3 +1,12 @@
 ﻿  Source.cpp
-C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Source.cpp(59,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Karatsuba.h(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Karatsuba.h(47,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Karatsuba.h(58,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Karatsuba.h(59,9): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Karatsuba.h(228,46): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Karatsuba.h(233,38): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Karatsuba.h(238,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Source.cpp(94,28): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Source.cpp(94,49): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Lab5\Source.cpp(125,20): warning C4018: '<': signed/unsigned mismatch
   Lab5.vcxproj -> C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab5\Debug\Lab5.exe
