@@ -1,0 +1,8 @@
+﻿  Project.cpp
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Project\Project.cpp(39,15): warning C4101: 'status': unreferenced local variable
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Project\Project.cpp(36,19): warning C4101: 'id_from': unreferenced local variable
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Project\Project.cpp(37,8): warning C4101: 'sv': unreferenced local variable
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Project\Project.cpp(34,11): warning C4101: 'j': unreferenced local variable
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Project\Project.cpp(37,12): warning C4101: 'ev': unreferenced local variable
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Project\Project.cpp(203,13): warning C4101: 'k': unreferenced local variable
+  Project.vcxproj -> C:\Users\Vasilica\Desktop\docs\PDP\PDP\Project\Debug\Project.exe
