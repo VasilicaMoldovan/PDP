@@ -1,0 +1,17 @@
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\Lab7_final.exe
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\Lab7_final.deps.json
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\Lab7_final.runtimeconfig.json
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\Lab7_final.runtimeconfig.dev.json
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\Lab7_final.dll
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\Lab7_final.pdb
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\MPIUtils.dll
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\bin\Debug\netcoreapp3.1\MPI.xml
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\obj\Debug\netcoreapp3.1\Lab7_final.csprojAssemblyReference.cache
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\obj\Debug\netcoreapp3.1\Lab7_final.AssemblyInfoInputs.cache
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\obj\Debug\netcoreapp3.1\Lab7_final.AssemblyInfo.cs
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\obj\Debug\netcoreapp3.1\Lab7_final.csproj.CoreCompileInputs.cache
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\obj\Debug\netcoreapp3.1\Lab7_final.csproj.CopyComplete
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\obj\Debug\netcoreapp3.1\Lab7_final.dll
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\obj\Debug\netcoreapp3.1\Lab7_final.pdb
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab7_final\obj\Debug\netcoreapp3.1\Lab7_final.genruntimeconfig.cache

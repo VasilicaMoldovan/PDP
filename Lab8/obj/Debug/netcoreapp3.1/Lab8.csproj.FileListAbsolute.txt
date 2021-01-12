@@ -1,0 +1,17 @@
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\obj\Debug\netcoreapp3.1\Lab8.csprojAssemblyReference.cache
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfoInputs.cache
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\obj\Debug\netcoreapp3.1\Lab8.AssemblyInfo.cs
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CoreCompileInputs.cache
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\Lab8.exe
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\Lab8.deps.json
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.json
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\Lab8.runtimeconfig.dev.json
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\MPI.dll
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\MPIUtils.dll
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\bin\Debug\netcoreapp3.1\MPI.xml
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\obj\Debug\netcoreapp3.1\Lab8.csproj.CopyComplete
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\obj\Debug\netcoreapp3.1\Lab8.dll
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\obj\Debug\netcoreapp3.1\Lab8.pdb
+C:\Users\Vasilica\Desktop\docs\PDP\PDP\Lab8\obj\Debug\netcoreapp3.1\Lab8.genruntimeconfig.cache

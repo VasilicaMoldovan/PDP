@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MPI">
+      <HintPath>mpi_utils\MPI.NET.1.3.0\lib\net462\MPI.dll</HintPath>
+    </Reference>
+    <Reference Include="MPIUtils">
+      <HintPath>mpi_utils\MPI.NET.1.3.0\lib\net462\MPIUtils.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
